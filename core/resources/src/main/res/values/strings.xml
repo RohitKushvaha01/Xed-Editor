@@ -684,4 +684,8 @@
     <string name="indexing_stats">%1$s files indexed, database size %2$s</string>
     <string name="exclude_files">Exclude files</string>
     <string name="exclude_files_regex">Exclude files regex (e.g. .*(?&lt;!\\.py))</string>
+    <string name="disable_bin_files">Disable Binary files</string>
+    <string name="disable_bin_files_desc">Make binary files read only by default</string>
+    <string name="oom_prediction">OOM Prediction</string>
+    <string name="oom_prediction_desc">Show out of memory dialog</string>
 </resources>
